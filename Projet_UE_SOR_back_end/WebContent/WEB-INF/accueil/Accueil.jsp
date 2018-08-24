@@ -2,6 +2,8 @@
 	pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 
+<div class="container">
+
 <h1>Projet UE SOR - Mars 2018</h1>
 <h2>Y. Autret - F. Singhoff Version provisoire 26 février 2018</h2>
 
@@ -20,7 +22,10 @@
 
 <p class="flow-text">Architecture n-tiers à construire:</p>
 
-<img src="images/archi.png">
+<div class="material-placeholder">
+	<img class="materialboxed" width="650" src="images/archi.png">
+</div>
+
 
 <h3>Description du projet</h3>
 
@@ -155,3 +160,5 @@
 	<li class="collection-item">Trouver une librairie JAVA permettant
 		de produire un PDF (Apache/FOP, iText, ...)</li>
 </ul>
+
+</div>
