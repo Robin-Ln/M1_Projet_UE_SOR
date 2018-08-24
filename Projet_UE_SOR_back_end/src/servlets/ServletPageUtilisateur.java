@@ -17,7 +17,6 @@ public class ServletPageUtilisateur extends HttpServlet {
 
     public ServletPageUtilisateur() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 
