@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<meteos>
+
+	<meteo>
+		<lieu>Brest</lieu>
+		<temp>NUAGE</temp>
+		<date>12/04/2018</date>
+		<minimum>12</minimum>
+		<maximum>13</maximum>
+		<moyenne>14</moyenne>
+	</meteo>
+	
+	<meteo>
+		<lieu>Lannion</lieu>
+		<temp>NUAGE</temp>
+		<date>12/04/2018</date>
+		<minimum>12</minimum>
+		<maximum>13</maximum>
+		<moyenne>14</moyenne>
+	</meteo>
+	
+	<meteo>
+		<lieu>Plaine-Haute</lieu>
+		<temp>NUAGE</temp>
+		<date>12/04/2018</date>
+		<minimum>12</minimum>
+		<maximum>13</maximum>
+		<moyenne>14</moyenne>
+	</meteo>
+
+</meteos>
